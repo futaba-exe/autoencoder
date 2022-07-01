@@ -1,0 +1,4 @@
+dataset/
+*.png
+node_modules
+.env
